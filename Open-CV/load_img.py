@@ -12,3 +12,4 @@ img = cv2.imread('kohli.jpg',cv2.IMREAD_GRAYSCALE)
 
 plt.imshow(img ,cmap = 'c',interpolation = 'bicubic')
 plt.show()
+
